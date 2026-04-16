@@ -6,12 +6,12 @@
 </p>
 
 <h1 align="center">Hi, I'm Mueen 👋</h1>
-<p align="center">Engineering Lead • Senior Full Stack Engineer • SaaS Builder</p>
+<p align="center">Engineering Lead • SaaS Builder</p>
 
 ---
 
 ### 🚀 About Me
-I'm a Senior Software Engineer & former Engineering Lead with deep experience in **SaaS product development**, **front-end architecture**, and **AI-assisted engineering**.  
+I'm a Engineering Lead with deep experience in **SaaS product development**, **front-end architecture**, and **AI-assisted engineering**.  
 I focus on building scalable products, improving engineering processes, and enabling teams to deliver faster and better.
 
 - Experience using **Claude Code** + AI tools to rebuild and accelerate product delivery
